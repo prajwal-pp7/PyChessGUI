@@ -8,38 +8,6 @@ and includes features like time tracking, hints, and game saving.
 
 ---
 
-## Features
-
-- **Interactive Data Visualization**  
-  Visualize chess moves and positions using an intuitive GUI.  
-  ----
-
-- **Multiple Game Modes**  
-  Play Human vs. Human, Human vs. AI, or AI vs. AI.  
-  ----
-
-- **AI Opponent with Stockfish**  
-  Integrated Stockfish engine provides strong AI moves and analysis.  
-  ----
-
-- **Customizable Themes**  
-  Switch between different board and piece themes.  
-  ----
-
-- **Time Tracking**  
-  Play with timers for competitive chess matches.  
-  ----
-
-- **Hints and Move Suggestions**  
-  Get hints from the engine when you are stuck.  
-  ----
-
-- **Game Saving**  
-  Save and load games for later analysis or continuation.  
-  ----
-
----
-
 ## Prerequisites
 
 To run this application, you must have the following installed:
